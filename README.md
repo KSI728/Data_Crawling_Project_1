@@ -1,2 +1,29 @@
 # Data_Crawling_Project_1
-This project was conducted by automatically collecting and analyzing large-scale data through web crawling. The main topic is an analysis of employment market trends in data analytics.
+
+- 본 프로젝트에서는 크롤링을 활용하여 데이터 분석 취업 시장 트렌드를 분석하였습니다.
+- 크게 채용시장 현황, 데이터 분석가 취업에 중요한 요소, 현직자 조언, 최신 개발 트렌드 카테고리로 나누어 분석하였습니다.
+
+## 🔧 사용한 기술
+
+- Python
+- Matplotlib
+- BeautifulSoup
+- wordcloud
+
+## 📂 활용 데이터셋 출처
+
+- 네이버 지식인 (크롤링)
+- 사람인 (크롤링)
+
+## 📂 파일 설명 
+
+- in1.py : 네이버 지식인 데이터 분석가 취업 키워드 답변 크롤링 및 워드클라우드 시각화 
+- in2.py : 네이버 지식인 데이터 분석가 취업 키워드 답변 크롤링 및 워드클라우드 시각화 2
+- in3.py : 네이버 지식인 데이터 분석가 자격증 키워드 답변 크롤링 및 워드클라우드 시각화
+- study.py : 사람인 홈페이지에서 관심 시장에 대한 키워드 입력 후 그 시장에서 필요로 하는 능력 시각화
+
+## 🎯 프로젝트 목표 
+
+- Matplotlib 라이브러리를 활용한 시각화
+- 크롤링 활용
+- 실제 취업 단계에서 활용할 수 있도록 데이터 분석 취업 시장 미리 분석해보기
